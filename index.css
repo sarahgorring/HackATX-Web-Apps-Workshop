@@ -1,7 +1,28 @@
+/* This is an example of a CSS file, it contains styling for differnt aspects of the page*/
+
+/* This is an example of using an ID to change an element. 
+   IDs are usually used to change specific elements. 
+   IDs are denoted by a "#" in front of the ID name.
+ */
 #personal_picture {
 	max-width:200px; 
 	max-height:250px;
 	margin-top:50px;
 	margin-left:50px;
 	border-radius:20px;
+}
+
+/* This is an example of using a class to change an element. 
+   Classes are usually used to denote groups of elements and give general styling to that grouping. 
+   Classes are denoted by a "." in front of the class name.
+ */
+.container {
+
+}
+
+/* This is an example of styling for a tag. 
+   Everything that is in this tag will have this styling. 
+ */
+body {
+
 }
